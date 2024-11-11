@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi! I am 藍梓華👋🏽
 
-<!--
-**blueBlue0102/blueBlue0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Repos 簡介
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- blue_imgur: <https://github.com/blueBlue0102/blue_imgur>  
+  一個線上的圖床服務  
+  主要為了自學 Node.js 而寫的專案  
+  目前只開放給我自己私人使用
+- Line-Web-Bot: <https://github.com/blueBlue0102/Line-Web-Bot>  
+  一個用 Python 寫的 script  
+  監聽 LINE 官方帳號 web 介面的事件  
+  然後根據監聽到的事件做出自定義的處理
+- LeetCode-Go: <https://github.com/blueBlue0102/LeetCode-Go>  
+  用 Go 語言寫的 Leetcode 刷題記錄
+- Apache YuniKorn 相關  
+  正在學習參與 Apache YuniKorn 開源專案的貢獻開發  
+  介紹: <https://hackmd.io/@vegetableBird/HkK28294C>
