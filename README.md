@@ -1,6 +1,5 @@
 # Hi! I am Blue👋🏽
-I am a Node.js backend engineer with over two years of experience.  
-My resume can be found here: [Resume](https://drive.google.com/file/d/1yQTgBx60avPj6_cwx_WBV0H4-768DSOw/view?usp=drive_link)
+I am a Node.js backend engineer with over two years of experience.
 
 Recently, I've been working on Go language projects, and I'm also interested in Rust or Java for the future.
 
